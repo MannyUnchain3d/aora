@@ -13,3 +13,5 @@ The app allows users to share AI-generated videos within a community platform.
 
 - &#9744; Add bookmark tabs to keep liked videos on a well organized page.
 - &#9744; Fix white flicker when swiping page on android (tested on Samsung Galaxy S22+ only).
+
+(Original tutorial project from: https://www.jsmastery.pro/)
