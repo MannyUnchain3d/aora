@@ -1,6 +1,6 @@
-# Aora - an AI Video Sharing App
+# Aora - an AI Video Sharing Platform
 
-The app allows users to share AI-generated videos within a community platform.
+This mobile app allows users to share AI-generated videos within a community platform.
 
 ## Features
 
