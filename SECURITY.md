@@ -2,20 +2,38 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+The following table indicates which versions of this project are currently receiving security updates:
 
 | Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+|---------|------------------|
+| latest  | ✅ Yes            |
+| older   | ❌ No             |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+If you discover a security vulnerability in this project, please follow these steps:
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+1. **Do not disclose it publicly.** Instead, report it privately.
+2. Send a **private message** with the details.
+3. Include:
+   - Affected versions
+   - Steps to reproduce
+   - Potential impact
+   - Any suggested fixes
+4. ~~Expect a response within **48 hours**.~~ ***Nope... this is just a placeholder, my personal projects are not actively maintained***
+5. Once verified and patched, an advisory may be published.
+
+## Security Best Practices
+
+To keep your installation secure:
+- Always use the latest version.
+- Follow the principle of least privilege.
+- Avoid running this software with unnecessary elevated permissions.
+
+## Acknowledgments
+
+We appreciate responsible disclosure. Thank you for helping improve the security of this project!
+
+---
+
+*Last Updated: YYYY-MM-DD*
